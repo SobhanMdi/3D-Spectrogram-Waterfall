@@ -1,0 +1,9 @@
+build/
+.vs/
+CMakeSettings.json
+*.user
+*.suo
+*.db
+*.opendb
+*.aps
+*.ico
